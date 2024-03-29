@@ -1,8 +1,9 @@
 # Lung Cancer Prediction Project
-##Overview
+## Overview
+
 This project focuses on predicting lung cancer risk using a dataset that has been rigorously preprocessed, encompassing over 1,000 records. Through the implementation of multinomial logistic regression and the application of AutoML techniques, the project evaluates more than 50 distinct models. Special attention was given to Gradient Boosting Machine (GBM) and XGBoost models due to their robust performance in predictive analytics.
 
-##Key Features
+## Key Features
 
 
 Multinomial Logistic Regression: Initiated the analysis with a foundational statistical approach to categorize the data based on various predictors of lung cancer.
@@ -15,7 +16,7 @@ Minimized Root Mean Square Error (RMSE) and Mean Squared Error (MSE) to less tha
 Key Predictors Identification: Through meticulous analysis, key predictors of lung cancer risk were identified. Notably, passive smoking and air pollution exposure were highlighted as significant risk factors. For instance, air pollution exposure was associated with a 1.5x increase in lung cancer risk among non-smokers.
 
 
-##Project Structure
+## Project Structure
 
 
 Data Preprocessing: Details the steps taken to clean and prepare the dataset for analysis, ensuring the quality and integrity of the data.
@@ -24,7 +25,7 @@ Results and Interpretation: Provides a thorough analysis of the results, includi
 Conclusion: Summarizes the insights gained from the project and suggests directions for future research.
 
 
-##Technologies Used
+## Technologies Used
 
 
 Python: The primary programming language for data processing and model implementation.
@@ -34,7 +35,7 @@ scikit-learn: Employed for implementing multinomial logistic regression and eval
 AutoML: Automated machine learning for efficient model evaluation and selection.
 
 
-##How to Use
+## How to Use
 
 
 To replicate this analysis or apply the methodology to a new dataset, follow these steps:
